@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vspanda
-- 👀 I’m interested in Systems Development, Web Development, and Data Structures
+- 👀 I’m interested in Systems Development, Web Development
 - 🌱 I’m currently learning C++, Python, C#, Javascript
 - 💞️ I’m looking to collaborate in the future :D
 - 📫 How to reach me hchh.vspanda @ gmail.com
